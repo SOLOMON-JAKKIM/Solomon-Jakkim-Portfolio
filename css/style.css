@@ -39,7 +39,7 @@ a {
   transition: .3s all;
   color: #57d131; }
   a:hover, a:focus, a:active {
-    color: #061B6F;
+    color: #4ebe2a;
     text-decoration: none; }
 
 .parent-nav-link-padding, .site-navbar .navbar-nav > li > a {
@@ -275,7 +275,7 @@ a {
   .btn.btn-primary {
     color: #fff; }
     .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
-      background: #061B6F; }
+      background: #4ebe2a; }
 
 .progress {
   overflow: visible;
